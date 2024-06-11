@@ -108,7 +108,7 @@ That's it! You've successfully deployed and interacted with the MyToken contract
 # Authors
 => Shagufta Seraj
 
-Github : https://github.com/Sourov2002t
+Github : https://github.com/Shaguftaseraj
 
 # License
 This project is licensed under the MIT License - see the link ( https://github.com/Shaguftaseraj/ETH_PROJECT/blob/main/LICENSE ) for details.
